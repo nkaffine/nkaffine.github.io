@@ -84,6 +84,11 @@ ul {
   padding-left: 22px;
 }
 
+ol {
+  margin: 0 0 14px;
+  padding-left: 22px;
+}
+
 .footer p {
   margin: 0;
 }
